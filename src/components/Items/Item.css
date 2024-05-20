@@ -1,0 +1,8 @@
+.card-img {
+  height: 300px;
+  width: 300px;
+}
+
+.card {
+  box-shadow: 3px 2px 9px 4px rgb(0 0 0 / 0.25);
+}
